@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Ярослав\source\repos\FirstInterfaceTest\IMenu.cs" Link="IMenu.cs" />
+    <Compile Include="C:\Users\Ярослав\source\repos\Папка для хранения проэктов для гита\InterfaceTest\Food.cs" Link="Food.cs" />
+    <Compile Include="C:\Users\Ярослав\source\repos\Папка для хранения проэктов для гита\InterfaceTest\IMenu.cs" Link="IMenu.cs" />
+    <Compile Include="C:\Users\Ярослав\source\repos\Папка для хранения проэктов для гита\InterfaceTest\Microwave.cs" Link="Microwave.cs" />
+    <Compile Include="C:\Users\Ярослав\source\repos\Папка для хранения проэктов для гита\InterfaceTest\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\bin\Debug\net5.0\InterfaceTest.exe
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\bin\Debug\net5.0\InterfaceTest.deps.json
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\bin\Debug\net5.0\InterfaceTest.runtimeconfig.json
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\bin\Debug\net5.0\InterfaceTest.runtimeconfig.dev.json
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\bin\Debug\net5.0\InterfaceTest.dll
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\bin\Debug\net5.0\ref\InterfaceTest.dll
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\bin\Debug\net5.0\InterfaceTest.pdb
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net5.0\InterfaceTest.csprojAssemblyReference.cache
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net5.0\InterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net5.0\InterfaceTest.AssemblyInfoInputs.cache
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net5.0\InterfaceTest.AssemblyInfo.cs
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net5.0\InterfaceTest.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net5.0\InterfaceTest.dll
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net5.0\ref\InterfaceTest.dll
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net5.0\InterfaceTest.pdb
+C:\Users\Ярослав\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net5.0\InterfaceTest.genruntimeconfig.cache
